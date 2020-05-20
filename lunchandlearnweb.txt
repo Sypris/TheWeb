@@ -1,0 +1,74 @@
+The Web:
+HTML a brief history.
+
+How a website is rendered.
+	https://varvy.com/pagespeed/display.html
+
+RESTful Web Services
+	http://docs.oracle.com/javaee/6/tutorial/doc/gijqy.html
+	https://relinklabs.com/what-are-rest-apis-and-what-are-they-good-for-1-1
+
+The rise of API's
+	Pro's and Con's 
+	http://readwrite.com/2013/09/19/api-defined/
+ 
+Server Side Languages
+	Node
+	PHP
+	Ruby
+	C#
+	Java
+	Python
+	https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites
+
+Style Sheets
+	CSS
+	LESS
+	SASS
+
+Javascript
+	Jquery
+	Other libs
+	Angular
+	React
+	https://www.quora.com/Why-is-JavaScript-the-only-client-side-language-available
+	
+Web Frameworks
+	Gelber Framework
+	Bootstrap
+	CMS Stuff - Wordpress etc
+	
+Hosting
+	Apache
+	Tomcat
+	IIS
+	Self Contained
+	
+I want to make a site to use for the company what should I do?
+
+	
+Security
+
+
+Company Web Technology:
+	Teamcity	
+	Graylog
+	Graphite/Grafana
+	Ops
+	Central Config
+	xMonitor
+	Redmine
+	Pentagon 
+	Confluence
+
+What else can we move to the web?
+	
+High velocity trading in the web?
+
+Where is the web heading?
+	Streaming 
+	Live everything
+	Interactive
+
+
+
